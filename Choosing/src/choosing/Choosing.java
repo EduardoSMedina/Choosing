@@ -416,7 +416,7 @@ public class Choosing {
                 valor = true;
 
             } catch (Exception e) {
-                System.out.println("Ingrese solo numeros.");
+                System.out.println("Ingrese solo números.");
                 System.out.println("------------------------------------------");
                 valor = false;
             }
